@@ -1,6 +1,11 @@
 # latihan_hero_dan_cliprect
 
-A new Flutter project.
+Latihan membuat aplikasi foto profile menggunakan widget Hero dan ClipRect
+
+hasil : 
+![Screenshot_2020-08-07-14-32-31-39_090216a2590b8202a8519df64027e4ef 1](https://user-images.githubusercontent.com/60292040/89621129-043fde80-d8bb-11ea-8441-1df92c501e7b.jpg)
+![Screenshot_2020-08-07-14-32-38-37_090216a2590b8202a8519df64027e4ef 1](https://user-images.githubusercontent.com/60292040/89621180-17eb4500-d8bb-11ea-897b-fa79ea9550e3.jpg)
+
 
 ## Getting Started
 
